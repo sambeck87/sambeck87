@@ -1,7 +1,7 @@
   ### Hi, I'm Sandro <img height="60" width="80" src="https://cdn.dribbble.com/users/3117394/screenshots/6979664/kaonashi.gif" alt="Hi"> <br><br>
 
 
-  <img width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQgYlf9XfxEDofq0Ho_kGRUd8HdMroMcCkYMpruUzRbVAh6jON9GRye0QNY0QqJbxQ1NM&usqp=CAU">
+  <img width="100%" height="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQgYlf9XfxEDofq0Ho_kGRUd8HdMroMcCkYMpruUzRbVAh6jON9GRye0QNY0QqJbxQ1NM&usqp=CAU">
 
   <p align="center">
     Visitor count<br>
@@ -9,27 +9,27 @@
   </p>
   <h3 align="left">About me:</h3>
   <h5 align="center"> I’m a remote software development school student named Microverse where I learn to do real-world projects working side by side in pair programming assignments with people from different countries. I love coding, singing, and playing the guitar. Currently, I am open to job opportunities<h5>
-
-      - 🔭 I’m currently studing to be a great developer web
-      - 🌱 I’m currently learning on microverse full-time program
-      - 👯 I’m looking to collaborate on every project that I can help to learn more about this field
-      - 🤔 I’m looking for help with anyone. It's interesting learn from other
-      - 💬 Ask me about any you want. I will happy to help you
-      - 📫 How to reach me: you can find me on linkedin as "Sandro Israel Hernández Zamora" or "Sambeck Hdz" on Facebook
-
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a href="https://github.com/sambeck87" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-            alt="github_icon" height="30" width="40" /></a>
-        <a href="https://www.linkedin.com/in/sandro-israel-hern%C3%A1ndez-zamora-899386a4/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="likedin_icon" height="30" width="40" /></a>
-        <a href="https://twitter.com/sambeck4488" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="twitter_icon" height="30" width="40" /></a>
-      </p>
-      <h3 align="left">Languages and Tools:</h3>
+ 
+- 🔭 I’m currently studing to be a great developer web
+- 🌱 I’m currently learning on microverse full-time program
+- 👯 I’m looking to collaborate on every project that I can help to learn more about this field
+- 🤔 I’m looking for help with anyone. It's interesting learn from other
+- 💬 Ask me about any you want. I will happy to help you
+- 📫 How to reach me:
+  
+<p align="center">
+  <a href="https://github.com/sambeck87" target="blank"><img align="center"
+   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+   alt="github_icon" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sandro-israel-hern%C3%A1ndez-zamora-899386a4/" target="blank"><img align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="likedin_icon" height="30" width="40" /></a>
+  <a href="https://twitter.com/sambeck4488" target="blank"><img align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+    alt="twitter_icon" height="30" width="40" /></a>
+</p>
+  
+  <h3 align="left">Languages and Tools:</h3>
       <p align="left">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -69,6 +69,5 @@
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack" width="40" height="40" /> </a>
       </p>
+  
 
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambeck87&" alt="sambeck87" />
-      </p>
