@@ -30,7 +30,7 @@
 </p>
   
   <h3 align="left">Languages and Tools:</h3>
-      <p align="left">
+      <p align="center">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /></a>
@@ -70,4 +70,6 @@
             alt="webpack" width="40" height="40" /> </a>
       </p>
   
-<a href="http://www.github.com/sambeck87"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sambeck87&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <p align="center"> <a href="http://www.github.com/sambeck87"><img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=sambeck87&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img width=49% src="https://github-readme-stats-sigma-five.vercel.app/api?username=sambeck87&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="sambeck's GitHub stats" />&nbsp;<p/> <br>
+   <p align="center"><img width=35% src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sambeck87&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /><p/>
