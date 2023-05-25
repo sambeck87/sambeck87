@@ -1,7 +1,4 @@
-  ### Hi, I'm Sandro <img height="60" width="80" src="https://cdn.dribbble.com/users/3117394/screenshots/6979664/kaonashi.gif" alt="Hi"> <br><br>
-
-
-  <img width="100%" height="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQgYlf9XfxEDofq0Ho_kGRUd8HdMroMcCkYMpruUzRbVAh6jON9GRye0QNY0QqJbxQ1NM&usqp=CAU">
+  <img width="100%" height="auto" src="https://i.ibb.co/zxwvL4R/my-header2.png">
 
   <p align="center">
     Visitor count<br>
