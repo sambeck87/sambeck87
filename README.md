@@ -5,14 +5,13 @@
     <img src="https://profile-counter.glitch.me/sambeck87/count.svg" />
   </p>
   <h3 align="left">About me:</h3>
-  <h5 align="center"> I’m a remote software development school student named Microverse where I learn to do real-world projects working side by side in pair programming assignments with people from different countries. I love coding, singing, and playing the guitar. Currently, I am open to job opportunities<h5>
- 
-- 🔭 I’m currently studing to be a great developer web
-- 🌱 I’m currently learning on microverse full-time program
-- 👯 I’m looking to collaborate on every project that I can help to learn more about this field
-- 🤔 I’m looking for help with anyone. It's interesting learn from other
-- 💬 Ask me about any you want. I will happy to help you
-- 📫 How to reach me:
+  <h5 align="center"> I'm a remote software development graduate from Microverse, where I gained experience working on real-world projects through pair programming assignments with individuals from various countries. In addition to coding, I have a passion for singing and playing the guitar. Currently, I am actively seeking job opportunities.</h5>
+
+- 🌱 I am continuously improving my skills to become an excellent web developer.
+- 👯 I am eager to collaborate on any project that allows me to further my learning in this field.
+- 🤔 I am open to receiving help from anyone, as I find it interesting to learn from others.
+- 💬 Feel free to ask me anything you'd like. I'm happy to assist you.
+- 📫 You can reach me at:
   
 <p align="center">
   <a href="https://github.com/sambeck87" target="blank"><img align="center"
