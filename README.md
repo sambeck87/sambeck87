@@ -14,9 +14,6 @@
 - 📫 You can reach me at:
   
 <p align="center">
-  <a href="https://github.com/sambeck87" target="blank"><img align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-   alt="github_icon" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/sandro-israel-hern%C3%A1ndez-zamora-899386a4/" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="likedin_icon" height="30" width="40" /></a>
