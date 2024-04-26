@@ -1,11 +1,12 @@
-  <img width="100%" height="auto" src="https://i.ibb.co/Zh2ZXjY/pixai-1740398175758881984-0.png">
+ <p align="center"> <img width="50%" height="auto" src="https://i.ibb.co/J30nzSm/Designer-1.jpg"></p>
 
   <p align="center">
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/sambeck87/count.svg" />
   </p>
   <h3 align="left">About me:</h3>
-  <h5 align="center"> I'm a remote software development graduate from Microverse, where I gained experience working on real-world projects through pair programming assignments with individuals from various countries. In addition to coding, I have a passion for singing and playing the guitar. Currently, I am actively seeking job opportunities.</h5>
+  <h5 align="center"> I'm a remote software development graduate from Microverse, where I gained experience working on real-world projects through pair programming assignments with individuals from various countries. In addition to coding, I have a passion for singing and playing the guitar. Currently, I am happy coding at Saeko inc as a back-end developer <img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/7412/7412020.png" />.</h5> 
+
 
 - 🌱 I am continuously improving my skills to become an excellent web developer.
 - 👯 I am eager to collaborate on any project that allows me to further my learning in this field.
