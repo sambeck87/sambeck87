@@ -1,4 +1,4 @@
-  <img width="100%" height="auto" src="https://media.licdn.com/dms/image/D5616AQHSr9236ujhcA/profile-displaybackgroundimage-shrink_350_1400/0/1685052061790?e=1692835200&v=beta&t=ef9TY46LgRG-rJtRrM90-98jAi13ti1wI27XJgtSGuU">
+  <img width="100%" height="auto" src="https://i.ibb.co/Zh2ZXjY/pixai-1740398175758881984-0.png">
 
   <p align="center">
     Visitor count<br>
